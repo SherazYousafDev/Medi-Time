@@ -202,8 +202,9 @@ export default function App() {
         </div>
       )}
 
-      <footer className="py-8 text-center text-xs text-gray-500">
-        Built with React + Tailwind. No third‑party libraries. ✨
+      <footer className="py-8 text-center text-xs text-gray-500 ">
+        Made With ❤️ By{" "}
+        <span className="italic underline font-bold">Sheraz Yousaf.</span>
       </footer>
     </main>
   );
