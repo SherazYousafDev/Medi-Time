@@ -17,9 +17,13 @@ It helps users (like my parents ❤️) take their medicine on time by sending r
 ---
 
 ## 🖼️ Demo
-🔗 [Live Demo on Vercel](https://your-vercel-link.com)  
+🔗 [[[Live Demo on Vercel](https://your-vercel-link.com)  ](https://sherazyousafdev.github.io/Medi-Time/)](https://sherazyousafdev.github.io/Medi-Time/)
 
-![MediTime Screenshot](public/icons/icon-512.png)
+---
+
+## Screenshots
+
+<img width="800" height="1000" alt="Medi_time preview" src="https://github.com/user-attachments/assets/baae0e28-4eb7-4f16-bfc5-a74b980c7a69" />
 
 ---
 
@@ -31,3 +35,8 @@ It helps users (like my parents ❤️) take their medicine on time by sending r
 
 ---
 
+### Credits
+
+Made With ❤️ By Sheraz Yousaf.
+
+---
