@@ -17,7 +17,7 @@ It helps users (like my parents ❤️) take their medicine on time by sending r
 ---
 
 ## 🖼️ Demo
-🔗 [[[Live Demo on Vercel](https://your-vercel-link.com)  ](https://sherazyousafdev.github.io/Medi-Time/)](https://sherazyousafdev.github.io/Medi-Time/)
+🔗 (https://sherazyousafdev.github.io/Medi-Time/)
 
 ---
 
